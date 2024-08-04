@@ -1,0 +1,11 @@
+{
+    "liveServer.settings.port": 5501,
+    "liveServer.settings.https": {
+        "enable": true
+    },
+    "liveServer.settings.proxy": {
+        "enable": true
+    },
+    "liveServer.settings.wait": 1,
+    "liveServer.settings.useLocalIp": true
+}
